@@ -1,5 +1,4 @@
-<?php
-?>
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,21 +30,18 @@
               <li>
                 <a href="#!">
                   <h3><strong>Full Stack Developer</strong></h3>
-
                   <p class="greyColor">Be a full Stack Developer</p>
                 </a>
               </li>
               <li>
                 <a href="#!">
                   <h3><strong>Full Stack Developer</strong></h3>
-
                   <p class="greyColor">Be a full Stack Developer</p>
                 </a>
               </li>
               <li>
                 <a href="#!">
                   <h3><strong>Full Stack Developer</strong></h3>
-
                   <p class="greyColor">Be a full Stack Developer</p>
                 </a>
               </li>
@@ -61,7 +57,7 @@
             <a href="#!">About</a>
           </li>
           <li>
-            <a href="#!" class="btn" style=""> <span>Sign In</span></a>
+            <a href="#!" class="btn"> <span>Sign In</span></a>
           </li>
           <li>
             <a href="#!" style="box-shadow: inset 0 0 10px rgb(0, 255, 255)">Book Your Free Trial</a>
