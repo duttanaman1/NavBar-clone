@@ -60,7 +60,7 @@
             <a href="#!" class="btn"> <span>Sign In</span></a>
           </li>
           <li>
-            <a href="#!" style="box-shadow: inset 0 0 10px rgb(0, 255, 255)">Book Your Free Trial</a>
+            <a href="#!" style="box-shadow: inset 0 0 10px rgb(0, 255, 255); color: rgb(0, 255, 255);">Book Your Free Trial</a>
           </li>
         </ul>
       </nav>
